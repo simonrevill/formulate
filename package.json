@@ -1,0 +1,22 @@
+{
+  "name": "formulate",
+  "version": "0.0.1",
+  "description": "Form builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simonrevill/formulate.git"
+  },
+  "keywords": [
+    "forms"
+  ],
+  "author": "Simon Revill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonrevill/formulate/issues"
+  },
+  "homepage": "https://github.com/simonrevill/formulate#readme"
+}
